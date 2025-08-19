@@ -5,6 +5,7 @@ An AI-powered voice assistant built with Python, Vosk, and Pyttsx3 that listens 
 🚀 Features
 
 🔊 Wake Word Detection – Activates on keywords like "Hey Agent" or "Agent"
+<img width="1566" height="128" alt="image" src="https://github.com/user-attachments/assets/84de1441-64d7-498e-9e89-4ec0327aa21f" />
 
 🎤 Offline Speech Recognition – Uses Vosk
  for accurate speech-to-text
@@ -89,4 +90,9 @@ For example, to add a "play music" command:
 elif "play music" in user_command:
     engine.say("Playing music...")
     os.system("start spotify")  # Windows example
+
+
+    
+![Uploading image.png…]()
+
 
